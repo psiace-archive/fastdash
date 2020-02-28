@@ -15,7 +15,7 @@ Obviously another host health dashboard, working with FastAPI.
 - [ ] UI
   - [ ] Basic display.
   - [ ] Beautiful charts.
-- [] Others
+- [ ] Others
   - [ ] Reasonable data storage.
   - [ ] Simple performance / availability analysis.
 
